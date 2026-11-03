@@ -2,7 +2,7 @@
 
 **Nombre:** Trinidad Salinas
 
-**Fecha de entrega:** [pon aquí la fecha publicada en Aula]
+**Fecha de entrega:** 02/11/2026
 
 ## Contenido de este repositorio
 
